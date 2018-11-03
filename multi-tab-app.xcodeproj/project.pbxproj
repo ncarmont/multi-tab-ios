@@ -13,6 +13,7 @@
 		3F12C2A1218DFE5400827147 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F12C2A0218DFE5400827147 /* Assets.xcassets */; };
 		3F12C2A4218DFE5400827147 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F12C2A2218DFE5400827147 /* LaunchScreen.storyboard */; };
 		3F12C2AF218DFE5500827147 /* multi_tab_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F12C2AE218DFE5500827147 /* multi_tab_appTests.swift */; };
+		3F12C2BA218E021800827147 /* profileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F12C2B9218E021800827147 /* profileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		3F12C2AA218DFE5500827147 /* multi-tab-appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "multi-tab-appTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F12C2AE218DFE5500827147 /* multi_tab_appTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = multi_tab_appTests.swift; sourceTree = "<group>"; };
 		3F12C2B0218DFE5500827147 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F12C2B9218E021800827147 /* profileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				3F12C2A0218DFE5400827147 /* Assets.xcassets */,
 				3F12C2A2218DFE5400827147 /* LaunchScreen.storyboard */,
 				3F12C2A5218DFE5400827147 /* Info.plist */,
+				3F12C2B9218E021800827147 /* profileViewController.swift */,
 			);
 			path = "multi-tab-app";
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			files = (
 				3F12C29C218DFE5400827147 /* ViewController.swift in Sources */,
 				3F12C29A218DFE5400827147 /* AppDelegate.swift in Sources */,
+				3F12C2BA218E021800827147 /* profileViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
